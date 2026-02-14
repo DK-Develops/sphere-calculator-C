@@ -17,4 +17,5 @@ printf("Area of the sphere is %.2lf\n", area);
 printf("Surface area of the sphere is %.2lf\n",surfaceArea);
 printf("Volume of the sphere is %.2lf\n",volume);
 
+return 0;
 }
